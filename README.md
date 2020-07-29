@@ -1,2 +1,2 @@
-# P-31-Plinko-1
-This is the first stage of my plinko game.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
